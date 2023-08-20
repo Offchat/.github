@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, We are Offchat</h1>
 <h3 align="center">Hobbyist Developers 🌟</h3>
-
+<br>
 
 <p><img align="right" src="https://github.com/Offchat/.github/blob/main/profile/f94135193d842e240e9c1267e4d9ca89.gif" width=600 height=500/></p>
 
