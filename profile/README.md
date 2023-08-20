@@ -2,7 +2,7 @@
 <h3 align="center">Hobbyist Developers 🌟</h3>
 
 
-<p><img align="right" src="./f94135193d842e240e9c1267e4d9ca89.gif" width=600 height=500/></p>
+<p><img align="right" src="https://github.com/Offchat/.github/blob/main/profile/f94135193d842e240e9c1267e4d9ca89.gif" width=600 height=500/></p>
 
 
 - 🌱 Creating different, innovative Projects across multiple platforms
